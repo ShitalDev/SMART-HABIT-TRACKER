@@ -42,27 +42,27 @@ Step-by-Step Installation
 
 ### Download the Project
 bash
-# Clone or download all the Java files to a folder
-# Required files:
-# - MainApp.java
-# - HabitManager.java
-# - CheckInManager.java
-# - ProductivityAnalyzer.java
-# - StorageManager.java
-# - Habit.java
-# - CheckInRecord.java
+### Clone or download all the Java files to a folder
+### Required files:
+### - MainApp.java
+### - HabitManager.java
+### - CheckInManager.java
+### - ProductivityAnalyzer.java
+### - StorageManager.java
+### - Habit.java
+### - CheckInRecord.java
 
 ### Compile the Project
 bash
-# Navigate to the project directory
+### Navigate to the project directory
 cd habit-tracker
 
-# Compile all Java files
+### Compile all Java files
 javac *.java
 
 ### Run the Application
 bash
-# Start the Habit Tracker
+### Start the Habit Tracker
 java MainApp
 First-Time Setup
 The application will automatically create data files
